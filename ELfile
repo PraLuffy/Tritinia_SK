@@ -1,15 +1,15 @@
 {
   "title": "Elqueeness",
   "description": "Kang Ji-hoon, an ordinary high school student who died in a painful accident, finds out in the underworld that he is actually a ‘Water Spirit King mistakenly born as a human’. “Making water spirits? How do you do that?” The adventures of Elqueeness, the Water Spirit King who was mistakenly born as a human!",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
+  "artist": "Nya-Reu",
+  "author": "Lee-Hwan",
   "cover": "https://rawdevart.com/media/comic/elqueeness/covers/Elqueeness_1.jpg",
   "chapters": {
-    "<119>": {
+    "119": {
       "title": "",
       "volume": "",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/EyTxBCx/"
+        "Tritinia": "/proxy/api/imgur/chapter/EyTxBCx/"
       },
       "last_updated": "1616368746"
     },
