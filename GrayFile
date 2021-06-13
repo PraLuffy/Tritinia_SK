@@ -1,0 +1,17 @@
+{
+  "title": "Gray's raws",
+  "description": "This will be used and updated weekly for raws for Gray",
+  "artist": "Kazuma",
+  "author": "Kazuma",
+  "cover": "https://cdn.discordapp.com/emojis/853653180017016832.png?v=1",
+  "chapters": {
+    "60": {
+      "title": "Grave Ch 60",
+      "volume": "1",
+      "groups": {
+        "Tritinia": "/proxy/api/imgur/chapter/k0zOc1w/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
